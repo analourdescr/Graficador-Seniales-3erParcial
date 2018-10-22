@@ -82,6 +82,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SeñalPersonalizada.cs" />
     <Compile Include="SeñalSenoidal.cs" />
     <Compile Include="SeñalRampa.cs" />
     <Compile Include="SeñalExponencial.cs" />
